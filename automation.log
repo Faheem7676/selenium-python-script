@@ -1,0 +1,63 @@
+07122005:45:11PM - LoginPage -INFO: Element Found with locator: guest-login-buttonand locatorType: id
+07122005:45:11PM - LoginPage -INFO: clicked on element with locator : guest-login-buttonlocatorType :id
+07122005:45:11PM - LoginPage -INFO: Element Found with locator: id_usernameand locatorType: id
+07122005:45:12PM - LoginPage -INFO: Sent data on element with locator: id_usernamelocatorType:id
+07122005:45:12PM - LoginPage -INFO: Element Found with locator: id_passwordand locatorType: id
+07122005:45:13PM - LoginPage -INFO: Sent data on element with locator: id_passwordlocatorType:id
+07122005:45:13PM - LoginPage -INFO: Element Found with locator: login_buttonand locatorType: id
+07122005:45:13PM - LoginPage -INFO: clicked on element with locator : login_buttonlocatorType :id
+07122005:45:13PM - LoginPage -INFO: Element Found with locator: //*[@id='login-form']/div[1]/pand locatorType: xpath
+07122005:45:13PM - LoginPage -INFO: Element present with locator: //*[@id='login-form']/div[1]/plocatorType: xpath
+07122005:45:13PM - TestStatus -INFO: ### VERIFICATION SUCCESSFULL:: + VerifiedLoginFailed
+07122005:45:13PM - LoginPage -INFO: Element Found with locator: //*[@id='wrapper']/div[3]/div/div[1]/div/div[1]/div/h3and locatorType: xpath
+07122005:45:13PM - LoginPage -INFO: Element present with locator: //*[@id='wrapper']/div[3]/div/div[1]/div/div[1]/div/h3locatorType: xpath
+07122005:45:13PM - TestStatus -INFO: ### VERIFICATION SUCCESSFULL:: + Verifyed Before Login
+07122005:45:13PM - TestStatus -INFO: test_invalidLogin### Test Successfull
+07122005:45:13PM - LoginPage -INFO: Element Found with locator: guest-login-buttonand locatorType: id
+07122005:45:14PM - LoginPage -INFO: can not click on the element with locator: guest-login-buttonlocatorType:id
+07122005:45:14PM - LoginPage -INFO: Element Found with locator: id_usernameand locatorType: id
+07122005:45:15PM - LoginPage -INFO: Sent data on element with locator: id_usernamelocatorType:id
+07122005:45:15PM - LoginPage -INFO: Element Found with locator: id_passwordand locatorType: id
+07122005:45:15PM - LoginPage -INFO: Sent data on element with locator: id_passwordlocatorType:id
+07122005:45:15PM - LoginPage -INFO: Element Found with locator: login_buttonand locatorType: id
+07122005:45:15PM - LoginPage -INFO: clicked on element with locator : login_buttonlocatorType :id
+07122005:45:15PM - Util -INFO: Actual Text From Application Web UI --> :: NewsGallery | People's Own Media
+07122005:45:15PM - Util -INFO: Expected Text From Application Web UI --> :: NewsGallery | People's Own Media
+07122005:45:15PM - Util -INFO: ### VERIFICATION CONTAINS !!!
+07122005:45:15PM - TestStatus -INFO: ### VERIFICATION SUCCESSFULL:: + Verified Title
+07122005:45:35PM - LoginPage -INFO: Element not found with locator: //*[@id='user-profile-pic']and locatorType: xpath
+07122005:45:35PM - LoginPage -INFO: Element not present with locator: //*[@id='user-profile-pic']locatorType:xpath
+07122005:45:35PM - TestStatus -INFO: ### VERIFICATION FAIL :: + login was sucessfull
+07122005:45:36PM - TestStatus -INFO: Screenshot save to directory: C:\Users\faroo\Desktop\NG_Project\../screenshots/login was sucessfull.3189112271545.png
+07122005:45:36PM - TestStatus -ERROR: test_validLogin ### Test Failed
+07122005:47:09PM - LoginPage -INFO: Element Found with locator: guest-login-buttonand locatorType: id
+07122005:47:09PM - LoginPage -INFO: clicked on element with locator : guest-login-buttonlocatorType :id
+07122005:47:10PM - LoginPage -INFO: Element Found with locator: id_usernameand locatorType: id
+07122005:47:10PM - LoginPage -INFO: Sent data on element with locator: id_usernamelocatorType:id
+07122005:47:10PM - LoginPage -INFO: Element Found with locator: id_passwordand locatorType: id
+07122005:47:10PM - LoginPage -INFO: Sent data on element with locator: id_passwordlocatorType:id
+07122005:47:10PM - LoginPage -INFO: Element Found with locator: login_buttonand locatorType: id
+07122005:47:10PM - LoginPage -INFO: clicked on element with locator : login_buttonlocatorType :id
+07122005:47:11PM - LoginPage -INFO: Element Found with locator: //*[@id='login-form']/div[1]/pand locatorType: xpath
+07122005:47:11PM - LoginPage -INFO: Element present with locator: //*[@id='login-form']/div[1]/plocatorType: xpath
+07122005:47:11PM - TestStatus -INFO: ### VERIFICATION SUCCESSFULL:: + VerifiedLoginFailed
+07122005:47:11PM - LoginPage -INFO: Element Found with locator: //*[@id='wrapper']/div[3]/div/div[1]/div/div[1]/div/h3and locatorType: xpath
+07122005:47:11PM - LoginPage -INFO: Element present with locator: //*[@id='wrapper']/div[3]/div/div[1]/div/div[1]/div/h3locatorType: xpath
+07122005:47:11PM - TestStatus -INFO: ### VERIFICATION SUCCESSFULL:: + Verifyed Before Login
+07122005:47:11PM - TestStatus -INFO: test_invalidLogin### Test Successfull
+07122005:47:11PM - LoginPage -INFO: Element Found with locator: guest-login-buttonand locatorType: id
+07122005:47:12PM - LoginPage -INFO: can not click on the element with locator: guest-login-buttonlocatorType:id
+07122005:47:12PM - LoginPage -INFO: Element Found with locator: id_usernameand locatorType: id
+07122005:47:12PM - LoginPage -INFO: Sent data on element with locator: id_usernamelocatorType:id
+07122005:47:12PM - LoginPage -INFO: Element Found with locator: id_passwordand locatorType: id
+07122005:47:12PM - LoginPage -INFO: Sent data on element with locator: id_passwordlocatorType:id
+07122005:47:12PM - LoginPage -INFO: Element Found with locator: login_buttonand locatorType: id
+07122005:47:12PM - LoginPage -INFO: clicked on element with locator : login_buttonlocatorType :id
+07122005:47:12PM - Util -INFO: Actual Text From Application Web UI --> :: NewsGallery | People's Own Media
+07122005:47:12PM - Util -INFO: Expected Text From Application Web UI --> :: NewsGallery | People's Own Media
+07122005:47:12PM - Util -INFO: ### VERIFICATION CONTAINS !!!
+07122005:47:12PM - TestStatus -INFO: ### VERIFICATION SUCCESSFULL:: + Verified Title
+07122005:47:16PM - LoginPage -INFO: Element Found with locator: //*[@id='user-profile-pic']and locatorType: xpath
+07122005:47:16PM - LoginPage -INFO: Element present with locator: //*[@id='user-profile-pic']locatorType: xpath
+07122005:47:16PM - TestStatus -INFO: ### VERIFICATION SUCCESSFULL:: + login was sucessfull
+07122005:47:16PM - TestStatus -INFO: test_validLogin### Test Successfull
